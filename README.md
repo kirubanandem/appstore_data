@@ -28,7 +28,7 @@ A curated collection of Android apps available for direct download.
 | Detail | Info |
 |---|---|
 | Package | `com.firebaseapp` |
-| Download | [eXmanager_v22.apk](https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v23.apk) |
+| Download | [eXmanager_v23.apk](https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v23.apk) |
 
 ---
 
