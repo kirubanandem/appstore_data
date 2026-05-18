@@ -15,7 +15,7 @@ A curated collection of Android apps available for direct download.
 | Detail | Info |
 |---|---|
 | Package | `com.kirubas.pay4me` |
-| Download | [Pay4Me-V-1_3_1.apk](https://github.com/kirubanandem/pay4me/raw/refs/heads/main/Pay4Me-V-1_3_1.apk) |
+| Download | [Pay4Me-V-1_3_8.apk](https://github.com/kirubanandem/pay4me/raw/refs/heads/main/Pay4Me-V-1_3_8.apk) |
 
 ---
 
@@ -28,7 +28,7 @@ A curated collection of Android apps available for direct download.
 | Detail | Info |
 |---|---|
 | Package | `com.firebaseapp` |
-| Download | [eXmanager_v22.apk](https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v22.apk) |
+| Download | [eXmanager_v22.apk](https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v23.apk) |
 
 ---
 
