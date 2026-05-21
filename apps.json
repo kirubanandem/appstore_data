@@ -18,6 +18,6 @@
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/chess/main/icon-192.png",
     "downloadUrl": "https://github.com/kirubanandem/chess/raw/refs/heads/main/ChessAnalyzer-V1.apk",
     "description": "https://github.com/kirubanandem/chess/blob/main/README.md",
-    "packageName": "com.checssanayser"
+    "packageName": "com.chess.analyzer"
   }
 ]
