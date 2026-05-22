@@ -20,10 +20,10 @@
     {
     "title": "Chess Analyzer",
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/chess/main/icon-192.png",
-    "downloadUrl": "https://github.com/kirubanandem/chess/raw/refs/heads/main/ChessAnalyzer-V-1.0.7.apk",
+    "downloadUrl": "https://github.com/kirubanandem/chess/raw/refs/heads/main/ChessAnalyzer-V-1.0.8.apk",
     "description": "https://github.com/kirubanandem/chess/blob/main/README.md",
     "packageName": "com.kirubas.chessanalyzer",
-    "versionName": "1.0.7",
-    "versionCode": 7
+    "versionName": "1.0.8",
+    "versionCode": 8
   }
 ]
