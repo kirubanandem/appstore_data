@@ -4,7 +4,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/pay4me/main/logo.png",
     "downloadUrl": "https://github.com/kirubanandem/pay4me/raw/refs/heads/main/Pay4Me-V-1_3_8.apk",
     "description": "https://github.com/kirubanandem/pay4me/blob/main/README.md",
-    "packageName": "com.kirubas.pay4me"
+    "packageName": "com.kirubas.pay4me",
     "versionName": "1.3.8",
     "versionCode": 38
   },
@@ -13,7 +13,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/eXmanager/main/logo.png",
     "downloadUrl": "https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v24.apk",
     "description": "https://github.com/kirubanandem/eXmanager/blob/main/README.md",
-    "packageName": "com.firebaseapp"
+    "packageName": "com.firebaseapp",
     "versionName": "2.4",
     "versionCode": 24
   },
@@ -22,7 +22,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/chess/main/icon-192.png",
     "downloadUrl": "https://github.com/kirubanandem/chess/raw/refs/heads/main/ChessAnalyzer-V-1.0.3.apk",
     "description": "https://github.com/kirubanandem/chess/blob/main/README.md",
-    "packageName": "com.kirubas.chessanalyzer"
+    "packageName": "com.kirubas.chessanalyzer",
     "versionName": "1.0.3",
     "versionCode": 3
   }
