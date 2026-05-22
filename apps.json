@@ -5,6 +5,8 @@
     "downloadUrl": "https://github.com/kirubanandem/pay4me/raw/refs/heads/main/Pay4Me-V-1_3_8.apk",
     "description": "https://github.com/kirubanandem/pay4me/blob/main/README.md",
     "packageName": "com.kirubas.pay4me"
+    "versionName": "1.3.8",
+    "versionCode": 38
   },
   {
     "title": "eXmanager",
@@ -12,6 +14,8 @@
     "downloadUrl": "https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v24.apk",
     "description": "https://github.com/kirubanandem/eXmanager/blob/main/README.md",
     "packageName": "com.firebaseapp"
+    "versionName": "2.4",
+    "versionCode": 24
   },
     {
     "title": "Chess Analyzer",
@@ -19,5 +23,7 @@
     "downloadUrl": "https://github.com/kirubanandem/chess/raw/refs/heads/main/ChessAnalyzer-V-1.0.3.apk",
     "description": "https://github.com/kirubanandem/chess/blob/main/README.md",
     "packageName": "com.kirubas.chessanalyzer"
+    "versionName": "1.0.3",
+    "versionCode": 3
   }
 ]
