@@ -11,11 +11,11 @@
   {
     "title": "eXmanager",
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/eXmanager/main/logo.png",
-    "downloadUrl": "https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v28.apk",
+    "downloadUrl": "https://github.com/kirubanandem/eXmanager/raw/refs/heads/main/eXmanager_v29.apk",
     "description": "https://github.com/kirubanandem/eXmanager/blob/main/README.md",
     "packageName": "com.firebaseapp",
-    "versionName": "2.8",
-    "versionCode": 28
+    "versionName": "2.9",
+    "versionCode": 29
   },
     {
     "title": "Chess Analyzer",
