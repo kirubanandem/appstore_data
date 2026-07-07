@@ -29,11 +29,11 @@
    {
     "title": "CamStreamer",
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/CamStreamerV2/main/logo.png",
-    "downloadUrl": "https://github.com/kirubanandem/CamStreamerV2/raw/refs/heads/main/eXmanager_v36.apk",
+    "downloadUrl": "https://github.com/kirubanandem/CamStreamerV2/raw/refs/heads/main/CamStreamer-V2.apk",
     "description": "https://github.com/kirubanandem/CamStreamerV2/blob/main/README.md",
     "packageName": "com.camstreamer.app",
-    "versionName": "2.0",
-    "versionCode": 2
+    "versionName": "3.0",
+    "versionCode": 3
   },
     {
     "title": "Chess Analyzer",
