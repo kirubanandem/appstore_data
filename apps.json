@@ -11,11 +11,11 @@
   {
     "title": "MSR",
     "iconUrl": "https://raw.githubusercontent.com/kirubanandem/MaintananceRecordingApp/main/logo.png",
-    "downloadUrl": "https://github.com/kirubanandem/MaintananceRecordingApp/raw/refs/heads/main/MSR_App_v-8.0.apk",
+    "downloadUrl": "https://github.com/kirubanandem/MaintananceRecordingApp/raw/refs/heads/main/MSR_App_v-9.0.apk",
     "description": "https://github.com/kirubanandem/MaintananceRecordingApp/blob/main/README.md",
     "packageName": "com.kirubas.msr",
-    "versionName": "8.0",
-    "versionCode": 8
+    "versionName": "9.0",
+    "versionCode": 9
   },
     {
     "title": "eXmanager",
